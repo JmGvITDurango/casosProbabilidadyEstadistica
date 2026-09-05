@@ -1,0 +1,51 @@
+﻿ID,Edad,Goles,Posición,Equipo
+1,19,8,Delantero,Tigres
+2,22,5,Mediocampista,América
+3,25,2,Defensa,Monterrey
+4,21,0,Portero,Chivas
+5,28,14,Delantero,Cruz Azul
+6,24,7,Mediocampista,Pumas
+7,30,1,Defensa,Tigres
+8,20,10,Delantero,América
+9,26,6,Mediocampista,Monterrey
+10,23,3,Defensa,Chivas
+11,29,0,Portero,Cruz Azul
+12,18,6,Delantero,Pumas
+13,27,9,Mediocampista,Tigres
+14,31,2,Defensa,América
+15,22,12,Delantero,Monterrey
+16,25,4,Mediocampista,Chivas
+17,19,1,Defensa,Cruz Azul
+18,28,16,Delantero,Pumas
+19,24,0,Portero,Tigres
+20,27,3,Defensa,América
+21,21,8,Mediocampista,Monterrey
+22,30,11,Delantero,Chivas
+23,23,2,Defensa,Cruz Azul
+24,26,5,Mediocampista,Pumas
+25,20,9,Delantero,Tigres
+26,32,1,Defensa,América
+27,24,7,Mediocampista,Monterrey
+28,29,13,Delantero,Chivas
+29,22,2,Defensa,Cruz Azul
+30,25,0,Portero,Pumas
+31,19,4,Mediocampista,Tigres
+32,27,15,Delantero,América
+33,31,1,Defensa,Monterrey
+34,23,6,Mediocampista,Chivas
+35,21,7,Delantero,Cruz Azul
+36,28,3,Defensa,Pumas
+37,26,8,Mediocampista,Tigres
+38,20,5,Delantero,América
+39,30,0,Portero,Monterrey
+40,24,2,Defensa,Chivas
+41,22,9,Mediocampista,Cruz Azul
+42,29,17,Delantero,Pumas
+43,25,4,Defensa,Tigres
+44,18,3,Mediocampista,América
+45,27,10,Delantero,Monterrey
+46,32,1,Defensa,Chivas
+47,23,5,Mediocampista,Cruz Azul
+48,21,11,Delantero,Pumas
+49,26,2,Defensa,Tigres
+50,28,7,Mediocampista,América
